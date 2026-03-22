@@ -244,14 +244,6 @@ streamlit run dashboard.py
 
 ---
 
-## 👥 Team
-
-**Team NeoTech** — NPCI Hackathon 2025
-- Bhavishya Raj
-- @shivam1211
-- @aaryan9106
-
----
 
 ## 📝 License
 
